@@ -8,7 +8,7 @@ Um aplicativo CRUD simple com React.js Hooks (+Axios) consumindo um servidor de 
 
 
 ### DEPLOY
-Para dar uma Oleada no Projeto Final CRUD: 
+Para dar uma olhada no Projeto Final CRUD: 
 https://projeto-final-crud-5qeb.vercel.app/
 
 ## frontend
