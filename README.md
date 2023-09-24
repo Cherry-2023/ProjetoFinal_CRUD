@@ -6,7 +6,6 @@ Um aplicativo CRUD simple com React.js Hooks (+Axios) consumindo um servidor de 
 
 ## Captura da Tela
 ![alt text](https://github.com/Cherry-2023/ProjetoFinal_CRUD/blob/master/Projeto_CRUD.png)
-
 ### DEPLOY
 Para dar uma olhada no Projeto Final CRUD: 
 https://projeto-final-crud-5qeb.vercel.app/
