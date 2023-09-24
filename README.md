@@ -54,7 +54,7 @@ O database.sqlite Já tem algumos dados.
 | put | /api/:id |
 | delete | /api/:id |
 
-### Tutorial de referencas:
+### Tutorial de referências:
 
 [Build a CRUD App in React with Hooks - Tania Rascia](https://www.taniarascia.com/crud-app-in-react-with-hooks/) - eng.
 
