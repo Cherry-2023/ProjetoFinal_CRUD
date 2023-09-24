@@ -5,7 +5,7 @@
 Um aplicativo CRUD simple com React.js Hooks (+Axios) consumindo um servidor de API Node.js simples (Express + Sequelize) conectado a Base de dados Sqlite.
 
 ## Captura da Tela
-![alt text](https://github.com/Cherry-2023/ProjetoFinal_CRUD/master/Projeto_CRUD.png)
+![alt text](https://github.com/Cherry-2023/ProjetoFinal_CRUD/blob/master/Projeto_CRUD.png)
 
 ### DEPLOY
 Para dar uma olhada no Projeto Final CRUD: 
