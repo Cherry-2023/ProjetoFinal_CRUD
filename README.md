@@ -7,6 +7,10 @@ Um aplicativo CRUD simple com React.js Hooks (+Axios) consumindo um servidor de 
 ## Captura da Tela
 
 
+### DEPLOY
+Para dar uma Oleada no Projeto Final CRUD: 
+https://projeto-final-crud-5qeb.vercel.app/
+
 ## frontend
 
 | Dependencias | links |
@@ -18,10 +22,6 @@ Um aplicativo CRUD simple com React.js Hooks (+Axios) consumindo um servidor de 
 | react-scripts | [link](https://github.com/facebook/create-react-app#readme) |
 
 CSS Style - (html tags on index.html): [Materialize](https://materializecss.com/)
-
-### DEPLOY
-Para dar uma Oleada no Projeto frontend CRUD:
-https://projeto-final-crud-5qeb.vercel.app/
 
 <br>
 
@@ -38,10 +38,6 @@ https://projeto-final-crud-5qeb.vercel.app/
 | ------ | ----- |
 | nodemon | [link](https://nodemon.io/) |
 | sequelize-cli | [link](https://github.com/sequelize/cli#readme) |
-
-### ### DEPLOY
-Para dar uma Oleada no Projeto backend CRUD:
-https://projectocrud.onrender.com
 
 <br>
 
